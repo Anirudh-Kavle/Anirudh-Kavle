@@ -21,3 +21,15 @@
 
 </div>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="400" height="200"/>
+</div>
+---
+
+### :man_technologist: About Me :
+I am a Machine Learning enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> studying in India.
+- :telescope: I’m doing my engineering in Artificial Intelligence.
+
+- :seedling: Learning technologies such as Web development, Deep Learning, NLP.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-r-kavle-831b44224)
