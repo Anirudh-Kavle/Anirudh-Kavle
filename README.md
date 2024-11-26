@@ -21,9 +21,9 @@
 I am a Machine Learning enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> studying in India.
 - :telescope: I’m doing my engineering in Artificial Intelligence.
 
-- :seedling: Learning technologies such as Deep Learning, NLP, Web development.
+- 🚀 Working on LLMs, VLMs and all things Generative AI to dodge Roko’s Basilisk 🐍.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-r-kavle-831b44224)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhkavle28/)
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
@@ -42,9 +42,5 @@ I am a Machine Learning enthusiast <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
 
 </div>
----
 
-### Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anirudh-kavle&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh-kavle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
