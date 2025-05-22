@@ -1,13 +1,4 @@
-<div id="header" align="center">
-  <div id="badges">
-    <p>
-      <img src="https://komarev.com/ghpvc/?username=anirudh-kavle&style=flat-square&color=blue" alt=""/>
-    </p>
-<!--     <h1>Olá</h1>
-  </div> -->
-</div>
 
----
 
 ### :man_technologist: About Me :
 I am a Machine Learning enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> studying in India.
